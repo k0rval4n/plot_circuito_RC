@@ -13,7 +13,7 @@ Lenguaje utilizado: ```Python```
 - ```scipy```
 
 ## Funcionamiento programa: 🤓
-    Aprendido manejo de excepciones 😎
+    Aprendido manejo de excepciones! 😎
 Se le solicita al usuario introducir los datos necesarios mediante consola en el siguiente orden:
 1. Tipo de gráfico I: carga [1] o descarga [2]
 2. Tipo de gráfico II: Sí [S] o No [N]
